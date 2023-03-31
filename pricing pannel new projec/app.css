@@ -1,0 +1,39 @@
+.price{
+    background-color: #0faf5a;
+    display: flex;
+    flex-direction: column;
+}
+.pricing{
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-evenly;
+    height: 100vh;
+    padding: 50px;
+}
+.food{
+    text-align: left;
+}
+.one{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 20%;
+    box-shadow: 5px 10px blueviolet;
+    }
+.two{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 20%;
+    box-shadow: 5px 10px blueviolet;
+}
+.three{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 20%;
+    box-shadow: 5px 10px blueviolet;
+}

@@ -9,6 +9,7 @@
     justify-content: space-evenly;
     height: 100vh;
     padding: 50px;
+    align-items: center;
 }
 .food{
     text-align: left;
